@@ -8,6 +8,8 @@ A resilient, scalable, and asynchronous system for ingesting and processing file
 
 This system is composed of two primary microservices, decoupled by a message queue, to handle the ingestion and processing flow.
 
+<img width="3570" height="2357" alt="Blank board" src="https://github.com/user-attachments/assets/e44269b7-1024-4882-a4a4-eeb62401aa44" />
+
 
 ## Tech Stack
 
